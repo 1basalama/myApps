@@ -4,8 +4,11 @@
 
 ## رابط التحميل
 
-[تحميل](https://github.com/1basalama/myApps/raw/main/CodePhone.apk)
-
+<a href="https://github.com/1basalama/myApps/raw/main/CodePhone.apk" download>
+  <button style="font-size: 16px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer;">
+    تحميل
+  </button>
+</a>
 ## الوصف
 
 تريد استخدام خدمة سلفني او يرجى الاتصال بي لأحد اصدقائك او كنت مشغولاً وتريد تحويل المكالمات له او لا تريد ان يزعجك احد بالإتصالات في وقت راحتك 😅
