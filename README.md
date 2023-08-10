@@ -2,6 +2,15 @@
 
 👍 تفعيل الخدمات لشبكات الاتصال اليمنية بطريقة سهلة وتلقائية دون الحاجة لحفظ رموزها
 
+تريد استخدام خدمة سلفني او يرجى الاتصال بي لأحد اصدقائك او كنت مشغولاً وتريد تحويل المكالمات له او لا تريد ان يزعجك احد بالإتصالات في ولاقت راحتك 😅
+.كل هذا ولكن للاسف لا تعرف رموز واكواد تلك الخدمات 😥
+لا بأس🤗
+فقد وفرنا لك تطبيق يسهل لك الوصول لهذه الخدمات بل وأكثر 😆
+وبضغطة زر تملك السيطرة على الخدمات من تفعيل وإلغاء👍😏
+💠تطبيق كود فون💠
+اصبح متاحا الان📢
+ومجاناً😁
+
 ## التحميل
 
 [تحميل CodePhone.apk](https://github.com/1basalama/myApps/raw/main/CodePhone.apk)
@@ -20,50 +29,50 @@
     <td>
       <img src="screenshots/Screenshot1.jpg" alt="Screenshot 1" width="200px" />
       <br />
-      <em>Caption for Screenshot 1</em>
+      <em></em>
     </td>
     <td>
       <img src="screenshots/Screenshot2.jpg" alt="Screenshot 2" width="200px" />
       <br />
-      <em>Caption for Screenshot 2</em>
+      <em></em>
     </td>
   </tr>
   <tr>
     <td>
       <img src="screenshots/Screenshot3.jpg" alt="Screenshot 3" width="200px" />
       <br />
-      <em>Caption for Screenshot 3</em>
+      <em></em>
     </td>
     <td>
       <img src="screenshots/Screenshot4.jpg" alt="Screenshot 4" width="200px" />
       <br />
-      <em>Caption for Screenshot 4</em>
+      <em></em>
     </td>
   </tr>
   <tr>
     <td>
       <img src="screenshots/Screenshot5.jpg" alt="Screenshot 5" width="200px" />
       <br />
-      <em>Caption for Screenshot 5</em>
+      <em></em>
     </td>
     <td>
       <img src="screenshots/Screenshot6.jpg" alt="Screenshot 6" width="200px" />
       <br />
-      <em>Caption for Screenshot 6</em>
+      <em></em>
     </td>
   </tr>
   <tr>
     <td>
       <img src="screenshots/Screenshot7.jpg" alt="Screenshot 7" width="200px" />
       <br />
-      <em>Caption for Screenshot 7</em>
+      <em></em>
     </td>
     
   </tr>
 </table>
 
 
-## ال
+##
 
 نحن نرحب بملاحظاتك ومساهماتك لتحسين تطبيق كود فون. إذا واجهت أي مشاكل أو لديك اقتراحات لميزات جديدة، يُرجى لتواصل معنا على الواتساب. نقدر دعمك في تحسين هذا التطبيق لصالح المجتمع.
 
