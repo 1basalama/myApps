@@ -2,7 +2,9 @@
 
 👍 تفعيل الخدمات لشبكات الاتصال اليمنية بطريقة سهلة وتلقائية دون الحاجة لحفظ رموزها
 
+## التحميل
 
+[تحميل CodePhone.apk](https://github.com/1basalama/myApps/raw/main/CodePhone.apk)
 
 ## الميزات
 
@@ -13,25 +15,57 @@
 
 ## صور الشاشة
 
-![Screenshot 1](screenshots/Screenshot1.jpg)
-*Caption for Screenshot 1*
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/Screenshot1.jpg" alt="Screenshot 1" width="200px" />
+      <br />
+      <em>Caption for Screenshot 1</em>
+    </td>
+    <td>
+      <img src="screenshots/Screenshot2.jpg" alt="Screenshot 2" width="200px" />
+      <br />
+      <em>Caption for Screenshot 2</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/Screenshot3.jpg" alt="Screenshot 3" width="200px" />
+      <br />
+      <em>Caption for Screenshot 3</em>
+    </td>
+    <td>
+      <img src="screenshots/Screenshot4.jpg" alt="Screenshot 4" width="200px" />
+      <br />
+      <em>Caption for Screenshot 4</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/Screenshot5.jpg" alt="Screenshot 5" width="200px" />
+      <br />
+      <em>Caption for Screenshot 5</em>
+    </td>
+    <td>
+      <img src="screenshots/Screenshot6.jpg" alt="Screenshot 6" width="200px" />
+      <br />
+      <em>Caption for Screenshot 6</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/Screenshot7.jpg" alt="Screenshot 7" width="200px" />
+      <br />
+      <em>Caption for Screenshot 7</em>
+    </td>
+    <td>
+      <img src="screenshots/Screenshot8.jpg" alt="Screenshot 8" width="200px" />
+      <br />
+      <em>Caption for Screenshot 8</em>
+    </td>
+  </tr>
+</table>
 
-![Screenshot 2](screenshots/Screenshot2.jpg)
-*Caption for Screenshot 2*
-
-![Screenshot 2](screenshots/Screenshot3.jpg)
-*Caption for Screenshot 3*
-![Screenshot 2](screenshots/Screenshot4.jpg)
-*Caption for Screenshot 4*
-![Screenshot 2](screenshots/Screenshot5.jpg)
-*Caption for Screenshot 5*
-![Screenshot 2](screenshots/Screenshot6.jpg)
-*Caption for Screenshot 6*
-![Screenshot 2](screenshots/Screenshot7.jpg)
-*Caption for Screenshot 7*
-## التحميل
-
-[تحميل CodePhone.apk](https://github.com/1basalama/myApps/raw/main/CodePhone.apk)
 
 ## ال
 
