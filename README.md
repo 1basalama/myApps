@@ -58,11 +58,7 @@
       <br />
       <em>Caption for Screenshot 7</em>
     </td>
-    <td>
-      <img src="screenshots/Screenshot8.jpg" alt="Screenshot 8" width="200px" />
-      <br />
-      <em>Caption for Screenshot 8</em>
-    </td>
+    
   </tr>
 </table>
 
